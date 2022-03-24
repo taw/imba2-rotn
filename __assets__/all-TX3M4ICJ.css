@@ -1,2 +1,0 @@
-/* styles:app/client.imba */
-.ci-ap{display:flex;justify-content:space-around;max-width:1000px;margin:auto;font-family:var(--font-sans,system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji")}header.ci_ap:not(#_){font-size:64px;text-align:center}textarea.ci_ap:not(#_){min-width:50vw;min-height:100px}th.ci_ap:not(#_){padding-right:5px}app-tag{display:block}/* chunk:end */
